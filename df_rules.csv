@@ -1,0 +1,219 @@
+"","LHS","RHS","support","confidence","coverage","lift","count"
+"1","{childrens cutlery dolly girl }","{childrens cutlery spaceboy }",0.0106619065997684,0.759450171821306,0.0140389810883829,43.7274532264223,221
+"2","{childrens cutlery polkadot blue}","{childrens cutlery polkadot pink}",0.0106136626785025,0.761245674740484,0.013942493245851,37.3028376974486,220
+"3","{painted metal pears assorted}","{assorted colour bird ornament}",0.0124951756078734,0.7,0.0178502508683906,9.97223367697594,259
+"4","{herb marker mint}","{herb marker parsley}",0.0102277113083751,0.883333333333333,0.0115785411038209,76.9316526610644,212
+"5","{herb marker parsley}","{herb marker mint}",0.0102277113083751,0.890756302521008,0.0114820532612891,76.9316526610644,212
+"6","{herb marker mint}","{herb marker basil}",0.0100347356233115,0.866666666666667,0.0115785411038209,74.2325068870523,208
+"7","{herb marker basil}","{herb marker mint}",0.0100347356233115,0.859504132231405,0.0116750289463528,74.2325068870523,208
+"8","{herb marker mint}","{herb marker rosemary}",0.0102277113083751,0.883333333333333,0.0115785411038209,76.2905555555556,212
+"9","{herb marker rosemary}","{herb marker mint}",0.0102277113083751,0.883333333333333,0.0115785411038209,76.2905555555556,212
+"10","{herb marker thyme}","{herb marker parsley}",0.0102759552296411,0.89873417721519,0.0114338093400232,78.2729496862036,213
+"11","{herb marker parsley}","{herb marker thyme}",0.0102759552296411,0.894957983193277,0.0114820532612891,78.2729496862036,213
+"12","{herb marker thyme}","{herb marker basil}",0.0101312234658433,0.886075949367089,0.0114338093400232,75.8949680928967,210
+"13","{herb marker basil}","{herb marker thyme}",0.0101312234658433,0.867768595041322,0.0116750289463528,75.8949680928967,210
+"14","{herb marker thyme}","{herb marker rosemary}",0.0106619065997684,0.932489451476793,0.0114338093400232,80.536005625879,221
+"15","{herb marker rosemary}","{herb marker thyme}",0.0106619065997684,0.920833333333333,0.0115785411038209,80.536005625879,221
+"16","{herb marker parsley}","{herb marker basil}",0.0102277113083751,0.890756302521008,0.0114820532612891,76.2958538787416,212
+"17","{herb marker basil}","{herb marker parsley}",0.0102277113083751,0.87603305785124,0.0116750289463528,76.2958538787416,212
+"18","{herb marker parsley}","{herb marker rosemary}",0.0103724430721729,0.903361344537815,0.0114820532612891,78.0203081232493,215
+"19","{herb marker rosemary}","{herb marker parsley}",0.0103724430721729,0.895833333333333,0.0115785411038209,78.0203081232493,215
+"20","{herb marker basil}","{herb marker rosemary}",0.010324199150907,0.884297520661157,0.0116750289463528,76.3738292011019,214
+"21","{herb marker rosemary}","{herb marker basil}",0.010324199150907,0.891666666666667,0.0115785411038209,76.3738292011019,214
+"22","{regency sugar bowl green}","{regency milk jug pink }",0.0117232728676187,0.754658385093168,0.0155345426476264,47.5457720553531,243
+"23","{regency milk jug pink }","{regency sugar bowl green}",0.0117232728676187,0.738601823708207,0.0158722500964878,47.5457720553531,243
+"24","{regency sugar bowl green}","{regency teapot roses }",0.0112408336549595,0.72360248447205,0.0155345426476264,36.0548853320592,233
+"25","{candleholder pink hanging heart}","{white hanging heart t-light holder}",0.0136047857969896,0.708542713567839,0.0192010806638364,6.4985280384222,282
+"26","{baking set spaceboy design}","{baking set 9 piece retrospot }",0.0161134697028174,0.718279569892473,0.022433423388653,15.9405770072068,334
+"27","{regency tea plate pink}","{regency tea plate green }",0.0134118101119259,0.911475409836066,0.0147143959861058,49.5880900133385,278
+"28","{regency tea plate green }","{regency tea plate pink}",0.0134118101119259,0.729658792650919,0.0183809340023157,49.5880900133385,278
+"29","{regency tea plate pink}","{regency tea plate roses }",0.0129776148205326,0.881967213114754,0.0147143959861057,41.0818345920059,269
+"30","{poppy's playhouse livingroom }","{poppy's playhouse kitchen}",0.0126399073716712,0.798780487804878,0.0158240061752219,37.9750503468337,262
+"31","{poppy's playhouse livingroom }","{poppy's playhouse bedroom }",0.0125434195291393,0.792682926829268,0.0158240061752219,38.8433373695439,260
+"32","{set of 6 snack loaf baking cases}","{set of 12 fairy cake baking cases}",0.0122057120802779,0.714689265536723,0.0170783481281359,26.8370998116761,253
+"33","{set/6 red spotty paper cups}","{set/6 red spotty paper plates}",0.0168853724430722,0.817757009345794,0.020648398301814,32.1640745535477,350
+"34","{toilet metal sign}","{bathroom metal sign}",0.0140872250096488,0.720987654320988,0.0195387881126978,23.6840445305316,292
+"35","{set of 3 wooden tree decorations}","{set of 3 wooden stocking decoration}",0.0105654187572366,0.747440273037543,0.0141354689309147,48.5672162367467,219
+"36","{set of 3 wooden tree decorations}","{set of 3 wooden heart decorations}",0.0101794673871092,0.720136518771331,0.0141354689309147,33.5437972159374,211
+"37","{kitchen metal sign}","{bathroom metal sign}",0.0106136626785025,0.721311475409836,0.0147143959861058,23.6946818736848,220
+"38","{wooden tree christmas scandinavian}","{wooden heart christmas scandinavian}",0.0120127363952142,0.736686390532544,0.0163064453878811,28.3829656188821,249
+"39","{wooden tree christmas scandinavian}","{wooden star christmas scandinavian}",0.0135565418757237,0.831360946745562,0.0163064453878811,33.6571283284024,281
+"40","{jam jar with green lid}","{jam jar with pink lid}",0.010951370127364,0.741830065359477,0.0147626399073717,44.9609754233077,227
+"41","{regency tea plate green }","{regency tea plate roses }",0.0153898108838286,0.837270341207349,0.0183809340023157,38.9998643427998,319
+"42","{regency tea plate roses }","{regency tea plate green }",0.0153898108838286,0.71685393258427,0.0214685449633346,38.9998643427998,319
+"43","{poppy's playhouse kitchen}","{poppy's playhouse bedroom }",0.0151003473562331,0.717889908256881,0.0210343496719413,35.1783026438502,313
+"44","{poppy's playhouse bedroom }","{poppy's playhouse kitchen}",0.0151003473562331,0.739952718676123,0.0204071786954844,35.1783026438502,313
+"45","{set/6 red spotty paper plates}","{set/20 red retrospot paper napkins }",0.0178502508683906,0.702087286527514,0.0254245465071401,14.7594982506514,370
+"46","{wooden heart christmas scandinavian}","{wooden star christmas scandinavian}",0.0187186414511772,0.721189591078067,0.0259552296410652,29.1969098513011,388
+"47","{wooden star christmas scandinavian}","{wooden heart christmas scandinavian}",0.0187186414511772,0.7578125,0.0247008876881513,29.1969098513011,388
+"48","{small marshmallows pink bowl}","{small dolly mix design orange bowl}",0.0168371285218063,0.78076062639821,0.0215650328058665,30.7089302921862,349
+"49","{pink regency teacup and saucer}","{roses regency teacup and saucer }",0.0288981088382864,0.781984334203655,0.0369548436896951,15.2054139581364,599
+"50","{pink regency teacup and saucer}","{green regency teacup and saucer}",0.0305384021613277,0.826370757180157,0.0369548436896951,16.8758749308673,633
+"51","{gardeners kneeling pad cup of tea }","{gardeners kneeling pad keep calm }",0.0263411810111926,0.720316622691293,0.0365688923195677,16.3534753068402,546
+"52","{charlotte bag pink polkadot}","{red retrospot charlotte bag}",0.0251833269008105,0.702557200538358,0.0358452335005789,14.08375788468,522
+"53","{roses regency teacup and saucer }","{green regency teacup and saucer}",0.0370513315322269,0.720450281425891,0.0514280200694712,14.7128014122127,768
+"54","{green regency teacup and saucer}","{roses regency teacup and saucer }",0.0370513315322269,0.756650246305419,0.0489675800849093,14.7128014122127,768
+"55","{alarm clock bakelike green,alarm clock bakelike orange}","{alarm clock bakelike red }",0.0100347356233115,0.761904761904762,0.0131705905055963,15.02641475239,208
+"56","{regency tea plate green ,regency tea plate pink}","{regency tea plate roses }",0.0123021999228097,0.91726618705036,0.0134118101119259,42.7260528655727,255
+"57","{regency tea plate pink,regency tea plate roses }","{regency tea plate green }",0.0123021999228097,0.947955390334573,0.0129776148205326,51.5727541492258,255
+"58","{regency tea plate green ,regency tea plate roses }","{regency tea plate pink}",0.0123021999228097,0.799373040752351,0.0153898108838286,54.3259160285729,255
+"59","{poppy's playhouse kitchen,poppy's playhouse livingroom }","{poppy's playhouse bedroom }",0.0108066383635662,0.854961832061069,0.0126399073716712,41.8951509573566,224
+"60","{poppy's playhouse bedroom ,poppy's playhouse livingroom }","{poppy's playhouse kitchen}",0.0108066383635662,0.861538461538462,0.0125434195291393,40.9586450247001,224
+"61","{poppy's playhouse bedroom ,poppy's playhouse kitchen}","{poppy's playhouse livingroom }",0.0108066383635662,0.715654952076677,0.0151003473562331,45.2259019714798,224
+"62","{set/6 red spotty paper cups,set/6 red spotty paper plates}","{set/20 red retrospot paper napkins }",0.0127846391354689,0.757142857142857,0.0168853724430722,15.9168936540133,265
+"63","{set/20 red retrospot paper napkins ,set/6 red spotty paper cups}","{set/6 red spotty paper plates}",0.0127846391354689,0.89527027027027,0.0142802006947125,35.2128314272527,265
+"64","{set/20 red retrospot paper napkins ,set/6 red spotty paper plates}","{set/6 red spotty paper cups}",0.0127846391354689,0.716216216216216,0.0178502508683906,34.6862844152564,265
+"65","{alarm clock bakelike chocolate,alarm clock bakelike red }","{alarm clock bakelike green}",0.0108548822848321,0.770547945205479,0.0140872250096488,16.2978753145094,225
+"66","{alarm clock bakelike chocolate,alarm clock bakelike green}","{alarm clock bakelike red }",0.0108548822848321,0.812274368231047,0.01336356619066,16.0198126590801,225
+"67","{alarm clock bakelike green,alarm clock bakelike ivory}","{alarm clock bakelike red }",0.0125434195291393,0.778443113772455,0.0161134697028174,15.3525869289015,260
+"68","{wooden heart christmas scandinavian,wooden tree christmas scandinavian}","{wooden star christmas scandinavian}",0.0111443458124276,0.927710843373494,0.0120127363952142,37.5577936746988,231
+"69","{wooden star christmas scandinavian,wooden tree christmas scandinavian}","{wooden heart christmas scandinavian}",0.0111443458124276,0.822064056939502,0.0135565418757237,31.6723861937583,231
+"70","{jumbo bag pink polkadot,jumbo bag toys }","{jumbo bag red retrospot}",0.0112408336549595,0.826241134751773,0.0136047857969896,8.18658042119252,233
+"71","{jumbo bag toys ,jumbo bag woodland animals}","{jumbo storage bag suki}",0.0104206869934388,0.747404844290657,0.013942493245851,13.0846348078182,216
+"72","{jumbo bag toys ,jumbo storage bag suki}","{jumbo bag woodland animals}",0.0104206869934388,0.724832214765101,0.0143766885372443,17.4094115268262,216
+"73","{jumbo bag toys ,jumbo bag woodland animals}","{jumbo bag red retrospot}",0.010951370127364,0.785467128027682,0.013942493245851,7.78258251900468,227
+"74","{jumbo bag toys ,jumbo shopper vintage red paisley}","{jumbo storage bag suki}",0.0102759552296411,0.800751879699248,0.0128328830567349,14.0185683804105,213
+"75","{jumbo bag toys ,jumbo storage bag suki}","{jumbo shopper vintage red paisley}",0.0102759552296411,0.714765100671141,0.0143766885372443,12.6090646865629,213
+"76","{jumbo bag toys ,jumbo shopper vintage red paisley}","{jumbo bag red retrospot}",0.0104689309147047,0.815789473684211,0.0128328830567349,8.08302304518466,217
+"77","{jumbo bag toys ,jumbo storage bag suki}","{jumbo bag red retrospot}",0.0113855654187572,0.791946308724832,0.0143766885372443,7.84677967841698,236
+"78","{dotcom postage,jumbo bag toys }","{jumbo bag red retrospot}",0.0104689309147047,0.794871794871795,0.0131705905055963,7.87576604402608,217
+"79","{charlotte bag apples design,strawberry charlotte bag}","{red retrospot charlotte bag}",0.010324199150907,0.829457364341085,0.0124469316866075,16.6276520774294,214
+"80","{charlotte bag apples design,charlotte bag pink polkadot}","{red retrospot charlotte bag}",0.010324199150907,0.859437751004016,0.0120127363952142,17.2286515501076,214
+"81","{charlotte bag apples design,charlotte bag suki design}","{woodland charlotte bag}",0.0101312234658433,0.7,0.0144731763797761,17.3767664670659,210
+"82","{charlotte bag apples design,woodland charlotte bag}","{charlotte bag suki design}",0.0101312234658433,0.724137931034483,0.0139907371671169,17.0180623973727,210
+"83","{charlotte bag apples design,charlotte bag suki design}","{red retrospot charlotte bag}",0.0107583944423003,0.743333333333333,0.0144731763797761,14.9011734364926,223
+"84","{charlotte bag apples design,woodland charlotte bag}","{red retrospot charlotte bag}",0.0104206869934388,0.744827586206897,0.0139907371671169,14.9311278596678,216
+"85","{jumbo bag pink polkadot,jumbo bag spaceboy design}","{jumbo bag red retrospot}",0.012736395214203,0.778761061946903,0.016354689309147,7.71613732888881,264
+"86","{jumbo bag spaceboy design,jumbo bag woodland animals}","{jumbo bag red retrospot}",0.0105171748359707,0.746575342465753,0.0140872250096488,7.39723408156316,218
+"87","{jumbo bag spaceboy design,jumbo shopper vintage red paisley}","{jumbo bag red retrospot}",0.0101794673871092,0.77007299270073,0.0132188344268622,7.63005401180723,211
+"88","{jumbo bag spaceboy design,jumbo storage bag suki}","{jumbo bag red retrospot}",0.0123504438440756,0.742028985507246,0.0166441528367426,7.35218776844847,256
+"89","{jumbo  bag baroque black white,jumbo bag scandinavian blue paisley}","{jumbo bag red retrospot}",0.0101794673871092,0.837301587301587,0.012157468159012,8.29616983823485,211
+"90","{jumbo bag pink vintage paisley,jumbo bag scandinavian blue paisley}","{jumbo bag red retrospot}",0.012157468159012,0.732558139534884,0.0165959089154767,7.25834852594602,252
+"91","{jumbo bag pink polkadot,jumbo bag scandinavian blue paisley}","{jumbo bag red retrospot}",0.0129293708992667,0.842767295597484,0.0153415669625627,8.35032528831006,268
+"92","{jumbo bag scandinavian blue paisley,jumbo storage bag suki}","{jumbo shopper vintage red paisley}",0.0105654187572366,0.725165562913907,0.014569664222308,12.7925376919825,219
+"93","{jumbo bag scandinavian blue paisley,jumbo shopper vintage red paisley}","{jumbo bag red retrospot}",0.0132670783481281,0.783475783475784,0.0169336163643381,7.76285183550958,275
+"94","{jumbo bag scandinavian blue paisley,jumbo storage bag suki}","{jumbo bag red retrospot}",0.0117232728676187,0.804635761589404,0.014569664222308,7.97250959188583,243
+"95","{jumbo bag pears,jumbo bag vintage leaf}","{jumbo bag apples}",0.0116750289463528,0.770700636942675,0.015148591277499,16.3344404934026,242
+"96","{jumbo bag pears,jumbo bag red retrospot}","{jumbo bag apples}",0.0109996140486299,0.786206896551724,0.0139907371671169,16.6630844087159,228
+"97","{jumbo bag pink polkadot,jumbo storage bag skulls}","{jumbo bag red retrospot}",0.0123021999228097,0.770392749244713,0.0159687379390197,7.63322223056616,255
+"98","{jumbo shopper vintage red paisley,jumbo storage bag skulls}","{jumbo storage bag suki}",0.0102277113083751,0.704318936877076,0.0145214203010421,12.3303403070845,212
+"99","{jumbo shopper vintage red paisley,jumbo storage bag skulls}","{jumbo bag red retrospot}",0.010903126206098,0.750830564784053,0.0145214203010421,7.4393957680898,226
+"100","{jumbo storage bag skulls,jumbo storage bag suki}","{jumbo bag red retrospot}",0.0124951756078734,0.705722070844687,0.0177055191045928,6.99245080519535,259
+"101","{alarm clock bakelike green,alarm clock bakelike pink}","{alarm clock bakelike red }",0.0151003473562331,0.748803827751196,0.0201659590891548,14.7680359102063,313
+"102","{jumbo bag owls,jumbo bag pink polkadot}","{jumbo bag red retrospot}",0.0101312234658433,0.75,0.0135082979544577,7.43116634799235,210
+"103","{jumbo bag owls,jumbo storage bag suki}","{jumbo bag red retrospot}",0.0111443458124276,0.724137931034483,0.0153898108838286,7.17491923254434,231
+"104","{jumbo bag pink vintage paisley,jumbo bag strawberry}","{jumbo bag red retrospot}",0.0102277113083751,0.736111111111111,0.0138942493245851,7.29355215636286,212
+"105","{jumbo bag pink polkadot,jumbo bag strawberry}","{jumbo bag red retrospot}",0.0134600540331918,0.801724137931034,0.0167888846005403,7.94366057888838,279
+"106","{jumbo bag strawberry,jumbo storage bag suki}","{jumbo bag red retrospot}",0.0116267850250868,0.769968051118211,0.0151003473562331,7.62901422733187,241
+"107","{pink regency teacup and saucer,roses regency teacup and saucer }","{green regency teacup and saucer}",0.0261482053261289,0.904841402337229,0.0288981088382864,18.4783769336415,542
+"108","{green regency teacup and saucer,pink regency teacup and saucer}","{roses regency teacup and saucer }",0.0261482053261289,0.856240126382307,0.0305384021613277,16.6492920634638,542
+"109","{green regency teacup and saucer,roses regency teacup and saucer }","{pink regency teacup and saucer}",0.0261482053261289,0.705729166666667,0.0370513315322269,19.097068102698,542
+"110","{pink regency teacup and saucer,regency cakestand 3 tier}","{roses regency teacup and saucer }",0.0159687379390197,0.844387755102041,0.0189116171362408,16.4188268177815,331
+"111","{pink regency teacup and saucer,regency cakestand 3 tier}","{green regency teacup and saucer}",0.0165476649942107,0.875,0.0189116171362408,17.8689655172414,343
+"112","{lunch bag pink polkadot,lunch bag suki design }","{lunch bag red retrospot}",0.0141837128521806,0.708433734939759,0.020021227325357,9.38901180168243,294
+"113","{lunch bag suki design ,lunch bag woodland}","{lunch bag red retrospot}",0.0131705905055963,0.701799485861183,0.0187668853724431,9.30108679215511,273
+"114","{jumbo  bag baroque black white,jumbo bag pink polkadot}","{jumbo bag red retrospot}",0.0156792744114242,0.785024154589372,0.0199729834040911,7.77819343992758,325
+"115","{jumbo  bag baroque black white,jumbo bag woodland animals}","{jumbo bag red retrospot}",0.0112408336549595,0.766447368421053,0.0146661520648398,7.59413052229043,233
+"116","{jumbo  bag baroque black white,jumbo shopper vintage red paisley}","{jumbo bag red retrospot}",0.0150038595137013,0.738717339667458,0.0203106908529525,7.31937524695367,311
+"117","{jumbo  bag baroque black white,jumbo storage bag suki}","{jumbo bag red retrospot}",0.0153415669625627,0.753554502369668,0.0203589347742184,7.46638514585014,318
+"118","{dotcom postage,jumbo  bag baroque black white}","{jumbo bag red retrospot}",0.0105171748359707,0.801470588235294,0.0131223465843304,7.94114835226634,218
+"119","{jumbo bag pink polkadot,jumbo bag pink vintage paisley}","{jumbo bag red retrospot}",0.0142319567734465,0.778364116094987,0.0182844461597839,7.7122043013465,295
+"120","{jumbo bag pink vintage paisley,jumbo bag woodland animals}","{jumbo bag red retrospot}",0.0100347356233115,0.742857142857143,0.0135082979544577,7.36039333515433,208
+"121","{jumbo bag pink vintage paisley,jumbo storage bag suki}","{jumbo bag red retrospot}",0.0129776148205326,0.734972677595628,0.0176572751833269,7.28227230458996,269
+"122","{lunch bag pink polkadot,lunch bag woodland}","{lunch bag red retrospot}",0.0136530297182555,0.714646464646465,0.0191045928213045,9.47135033196414,283
+"123","{jumbo bag pink polkadot,lunch bag pink polkadot}","{jumbo bag red retrospot}",0.010324199150907,0.710963455149502,0.0145214203010421,7.04438360341246,214
+"124","{lunch bag cars blue,strawberry charlotte bag}","{red retrospot charlotte bag}",0.0100347356233115,0.779026217228464,0.0128811269780008,15.6166880374387,208
+"125","{charlotte bag pink polkadot,strawberry charlotte bag}","{charlotte bag suki design}",0.0130741026630645,0.715039577836412,0.0182844461597839,16.8042407816249,271
+"126","{charlotte bag pink polkadot,strawberry charlotte bag}","{red retrospot charlotte bag}",0.0157275183326901,0.860158311345646,0.0182844461597839,17.2430962065499,326
+"127","{lunch bag  black skull.,strawberry charlotte bag}","{red retrospot charlotte bag}",0.0108548822848321,0.800711743772242,0.0135565418757237,16.051405246529,225
+"128","{charlotte bag suki design,strawberry charlotte bag}","{woodland charlotte bag}",0.0146179081435739,0.730120481927711,0.020021227325357,18.124475867542,303
+"129","{strawberry charlotte bag,woodland charlotte bag}","{charlotte bag suki design}",0.0146179081435739,0.746305418719212,0.0195870320339637,17.5390234911699,303
+"130","{charlotte bag suki design,strawberry charlotte bag}","{red retrospot charlotte bag}",0.0161134697028174,0.804819277108434,0.020021227325357,16.133746591783,334
+"131","{strawberry charlotte bag,woodland charlotte bag}","{red retrospot charlotte bag}",0.015775762253956,0.805418719211823,0.0195870320339637,16.1457632609503,327
+"132","{lunch bag red retrospot,strawberry charlotte bag}","{red retrospot charlotte bag}",0.0110961018911617,0.764119601328904,0.0145214203010421,15.3178637295411,230
+"133","{charlotte bag pink polkadot,lunch bag cars blue}","{red retrospot charlotte bag}",0.0101312234658433,0.833333333333333,0.012157468159012,16.7053513862025,210
+"134","{charlotte bag suki design,lunch bag cars blue}","{red retrospot charlotte bag}",0.0101794673871092,0.775735294117647,0.0131223465843304,15.5507168050973,211
+"135","{jumbo bag apples,jumbo bag pink polkadot}","{jumbo bag red retrospot}",0.013942493245851,0.791780821917808,0.017609031262061,7.84513999842846,289
+"136","{jumbo bag pink polkadot,jumbo bag woodland animals}","{jumbo bag red retrospot}",0.0164511771516789,0.794871794871795,0.0206966422230799,7.87576604402608,341
+"137","{jumbo bag pink polkadot,recycling bag retrospot }","{jumbo bag red retrospot}",0.0117232728676187,0.812709030100334,0.0144249324585102,8.05250132692148,243
+"138","{jumbo bag pink polkadot,jumbo shopper vintage red paisley}","{jumbo bag red retrospot}",0.0182362022385179,0.807692307692308,0.0225781551524508,8.00279452860715,378
+"139","{jumbo bag pink polkadot,jumbo storage bag suki}","{jumbo bag red retrospot}",0.0199247394828252,0.801941747572816,0.0248456194519491,7.94581670348438,413
+"140","{jumbo bag pink polkadot,lunch bag red retrospot}","{jumbo bag red retrospot}",0.0120127363952142,0.770897832817337,0.0155827865688923,7.63822671062991,249
+"141","{dotcom postage,jumbo bag pink polkadot}","{jumbo bag red retrospot}",0.01336356619066,0.802898550724638,0.0166441528367426,7.95529692132901,277
+"142","{jumbo bag apples,jumbo bag woodland animals}","{jumbo bag red retrospot}",0.0110961018911617,0.759075907590759,0.0146179081435739,7.5210924534136,230
+"143","{jumbo bag apples,jumbo shopper vintage red paisley}","{jumbo bag red retrospot}",0.0118680046314164,0.738738738738739,0.0160652257815515,7.31958727369817,246
+"144","{jumbo bag apples,jumbo storage bag suki}","{jumbo bag red retrospot}",0.0135565418757237,0.747340425531915,0.0181397143959861,7.40481469427607,281
+"145","{jumbo bag woodland animals,jumbo shopper vintage red paisley}","{jumbo storage bag suki}",0.0132670783481281,0.705128205128205,0.018815129293709,12.344507969508,275
+"146","{jumbo bag woodland animals,jumbo shopper vintage red paisley}","{jumbo bag red retrospot}",0.0143284446159784,0.761538461538461,0.018815129293709,7.54549198411531,297
+"147","{dotcom postage,jumbo bag woodland animals}","{jumbo storage bag suki}",0.0125434195291393,0.720221606648199,0.0174160555769973,12.6087444785506,260
+"148","{jumbo bag woodland animals,jumbo storage bag suki}","{jumbo bag red retrospot}",0.015775762253956,0.728285077951002,0.0216615206483983,7.2160100840193,327
+"149","{dotcom postage,jumbo bag woodland animals}","{jumbo bag red retrospot}",0.0131705905055963,0.756232686980609,0.0174160555769973,7.49292119298952,273
+"150","{charlotte bag pink polkadot,lunch bag  black skull.}","{red retrospot charlotte bag}",0.0108548822848321,0.830258302583026,0.0130741026630645,16.6437080231537,225
+"151","{charlotte bag pink polkadot,charlotte bag suki design}","{woodland charlotte bag}",0.0140872250096488,0.712195121951219,0.0197800077190274,17.6794975901855,292
+"152","{charlotte bag pink polkadot,woodland charlotte bag}","{charlotte bag suki design}",0.0140872250096488,0.739240506329114,0.0190563489000386,17.3729900398978,292
+"153","{charlotte bag pink polkadot,charlotte bag suki design}","{red retrospot charlotte bag}",0.0158722500964878,0.802439024390244,0.0197800077190274,16.0860310421286,329
+"154","{charlotte bag pink polkadot,woodland charlotte bag}","{red retrospot charlotte bag}",0.0156792744114242,0.822784810126582,0.0190563489000386,16.4938912420733,325
+"155","{charlotte bag pink polkadot,lunch bag red retrospot}","{red retrospot charlotte bag}",0.0115785411038209,0.792079207920792,0.0146179081435739,15.8783537928261,240
+"156","{charlotte bag pink polkadot,pack of 72 retrospot cake cases}","{red retrospot charlotte bag}",0.0104206869934388,0.837209302325581,0.0124469316866075,16.7830506949755,216
+"157","{charlotte bag pink polkadot,jumbo bag red retrospot}","{red retrospot charlotte bag}",0.0104206869934388,0.771428571428571,0.0135082979544577,15.4643824260846,216
+"158","{jumbo storage bag suki,recycling bag retrospot }","{dotcom postage}",0.0100347356233115,0.702702702702703,0.0142802006947125,20.5729118949458,208
+"159","{jumbo storage bag suki,recycling bag retrospot }","{jumbo bag red retrospot}",0.0106136626785025,0.743243243243243,0.0142802006947125,7.36421890341584,220
+"160","{dotcom postage,recycling bag retrospot }","{jumbo bag red retrospot}",0.0123021999228097,0.754437869822485,0.0163064453878811,7.47513774650118,255
+"161","{dotcom postage,jumbo shopper vintage red paisley}","{jumbo storage bag suki}",0.0123021999228097,0.702479338842975,0.0175125434195291,12.2981349117713,255
+"162","{jumbo shopper vintage red paisley,jumbo storage bag suki}","{jumbo bag red retrospot}",0.018815129293709,0.744274809160305,0.0252798147433423,7.37443988732065,390
+"163","{dotcom postage,jumbo shopper vintage red paisley}","{jumbo bag red retrospot}",0.0135082979544577,0.771349862258953,0.0175125434195291,7.64270551859636,280
+"164","{charlotte bag suki design,lunch bag  black skull.}","{red retrospot charlotte bag}",0.0108548822848321,0.737704918032787,0.0147143959861057,14.7883438500809,225
+"165","{lunch bag  black skull.,woodland charlotte bag}","{red retrospot charlotte bag}",0.0105654187572366,0.768421052631579,0.0137495175607873,15.4040924361193,219
+"166","{dotcom postage,red toadstool led night light}","{jumbo bag red retrospot}",0.0112408336549595,0.744408945686901,0.0151003473562331,7.37576894177729,233
+"167","{jumbo bag red retrospot,red toadstool led night light}","{dotcom postage}",0.0112408336549595,0.781879194630873,0.0143766885372443,22.8909490767072,233
+"168","{jam making set with jars,roses regency teacup and saucer }","{green regency teacup and saucer}",0.0100829795445774,0.832669322709163,0.012109224237746,17.0045021882912,209
+"169","{green regency teacup and saucer,jam making set with jars}","{roses regency teacup and saucer }",0.0100829795445774,0.803846153846154,0.0125434195291393,15.6305094530235,209
+"170","{regency cakestand 3 tier,roses regency teacup and saucer }","{green regency teacup and saucer}",0.0196835198764956,0.777142857142857,0.0253280586646083,15.8705587614356,408
+"171","{green regency teacup and saucer,regency cakestand 3 tier}","{roses regency teacup and saucer }",0.0196835198764956,0.801571709233792,0.0245561559243535,15.5862836669775,408
+"172","{dotcom postage,roses regency teacup and saucer }","{green regency teacup and saucer}",0.0112408336549595,0.81184668989547,0.0138460054033192,16.57926915089,233
+"173","{dotcom postage,green regency teacup and saucer}","{roses regency teacup and saucer }",0.0112408336549595,0.70392749244713,0.0159687379390197,13.6876257630808,233
+"174","{charlotte bag suki design,woodland charlotte bag}","{red retrospot charlotte bag}",0.0162099575453493,0.736842105263158,0.0219992280972597,14.7710475414843,336
+"175","{charlotte bag suki design,lunch bag red retrospot}","{red retrospot charlotte bag}",0.0124951756078734,0.750724637681159,0.0166441528367426,15.0493426400919,259
+"176","{charlotte bag suki design,pack of 72 retrospot cake cases}","{red retrospot charlotte bag}",0.0100829795445774,0.765567765567766,0.0131705905055963,15.3468942405113,209
+"177","{lunch bag red retrospot,woodland charlotte bag}","{red retrospot charlotte bag}",0.0110961018911617,0.744336569579288,0.0149073716711694,14.921284733307,230
+"178","{pack of 72 retrospot cake cases,woodland charlotte bag}","{red retrospot charlotte bag}",0.0102277113083751,0.762589928057554,0.0134118101119259,15.2871992541363,212
+"179","{jumbo bag red retrospot,woodland charlotte bag}","{red retrospot charlotte bag}",0.0102759552296411,0.71,0.0144731763797761,14.2329593810445,213
+"180","{jumbo storage bag suki,lunch bag red retrospot}","{jumbo bag red retrospot}",0.0115785411038209,0.701754385964912,0.0164994210729448,6.95313810338466,240
+"181","{dotcom postage,jumbo storage bag suki}","{jumbo bag red retrospot}",0.0138942493245851,0.729113924050633,0.0190563489000386,7.22422247501029,288
+"182","{jam making set printed,suki  shoulder bag}","{dotcom postage}",0.0100829795445774,0.958715596330275,0.0105171748359707,28.0681594360649,209
+"183","{dotcom postage,jam making set printed}","{suki  shoulder bag}",0.0100829795445774,0.706081081081081,0.0142802006947125,27.6144314125446,209
+"184","{dotcom postage,suki  shoulder bag}","{jumbo bag red retrospot}",0.0120127363952142,0.741071428571429,0.0162099575453493,7.34270008194482,249
+"185","{jumbo bag red retrospot,suki  shoulder bag}","{dotcom postage}",0.0120127363952142,0.882978723404255,0.0136047857969896,25.850823416276,249
+"186","{green regency teacup and saucer,jumbo bag red retrospot}","{dotcom postage}",0.010951370127364,0.840740740740741,0.0130258587417985,24.6142289181837,227
+"187","{pink regency teacup and saucer,regency cakestand 3 tier,roses regency teacup and saucer }","{green regency teacup and saucer}",0.0145214203010421,0.909365558912387,0.0159687379390197,18.5707677883113,301
+"188","{green regency teacup and saucer,pink regency teacup and saucer,regency cakestand 3 tier}","{roses regency teacup and saucer }",0.0145214203010421,0.877551020408163,0.0165476649942107,17.0636750009572,301
+"189","{green regency teacup and saucer,regency cakestand 3 tier,roses regency teacup and saucer }","{pink regency teacup and saucer}",0.0145214203010421,0.737745098039216,0.0196835198764956,19.9634208774894,301
+"190","{lunch bag  black skull.,lunch bag cars blue,lunch bag pink polkadot}","{lunch bag red retrospot}",0.0108548822848321,0.725806451612903,0.0149556155924354,9.61925583697715,225
+"191","{charlotte bag pink polkadot,charlotte bag suki design,strawberry charlotte bag}","{woodland charlotte bag}",0.0107101505210343,0.819188191881919,0.0130741026630645,20.3354884327286,222
+"192","{charlotte bag pink polkadot,strawberry charlotte bag,woodland charlotte bag}","{charlotte bag suki design}",0.0107101505210343,0.844106463878327,0.0126881512929371,19.8374589379478,222
+"193","{charlotte bag suki design,strawberry charlotte bag,woodland charlotte bag}","{charlotte bag pink polkadot}",0.0107101505210343,0.732673267326733,0.0146179081435739,20.4399077862026,222
+"194","{charlotte bag pink polkadot,charlotte bag suki design,woodland charlotte bag}","{strawberry charlotte bag}",0.0107101505210343,0.76027397260274,0.0140872250096488,21.8268128865784,222
+"195","{charlotte bag pink polkadot,charlotte bag suki design,strawberry charlotte bag}","{red retrospot charlotte bag}",0.0118197607101505,0.904059040590406,0.0130741026630645,18.1231487363229,245
+"196","{charlotte bag pink polkadot,red retrospot charlotte bag,strawberry charlotte bag}","{charlotte bag suki design}",0.0118197607101505,0.751533742331288,0.0157275183326901,17.6618950238582,245
+"197","{charlotte bag suki design,red retrospot charlotte bag,strawberry charlotte bag}","{charlotte bag pink polkadot}",0.0118197607101505,0.733532934131736,0.0161134697028174,20.463890523126,245
+"198","{charlotte bag pink polkadot,charlotte bag suki design,red retrospot charlotte bag}","{strawberry charlotte bag}",0.0118197607101505,0.74468085106383,0.0158722500964878,21.3791477574114,245
+"199","{charlotte bag pink polkadot,strawberry charlotte bag,woodland charlotte bag}","{red retrospot charlotte bag}",0.0116750289463528,0.920152091254753,0.0126881512929371,18.4457568157916,242
+"200","{charlotte bag pink polkadot,red retrospot charlotte bag,strawberry charlotte bag}","{woodland charlotte bag}",0.0116750289463528,0.742331288343558,0.0157275183326901,18.4275963410602,242
+"201","{red retrospot charlotte bag,strawberry charlotte bag,woodland charlotte bag}","{charlotte bag pink polkadot}",0.0116750289463528,0.740061162079511,0.015775762253956,20.6460131461428,242
+"202","{charlotte bag pink polkadot,red retrospot charlotte bag,woodland charlotte bag}","{strawberry charlotte bag}",0.0116750289463528,0.744615384615385,0.0156792744114242,21.3772682718943,242
+"203","{charlotte bag suki design,strawberry charlotte bag,woodland charlotte bag}","{red retrospot charlotte bag}",0.0125434195291393,0.858085808580858,0.0146179081435739,17.2015499422283,260
+"204","{charlotte bag suki design,red retrospot charlotte bag,strawberry charlotte bag}","{woodland charlotte bag}",0.0125434195291393,0.778443113772455,0.0161134697028174,19.3240345655993,260
+"205","{red retrospot charlotte bag,strawberry charlotte bag,woodland charlotte bag}","{charlotte bag suki design}",0.0125434195291393,0.795107033639144,0.015775762253956,18.6859167724174,260
+"206","{charlotte bag suki design,red retrospot charlotte bag,woodland charlotte bag}","{strawberry charlotte bag}",0.0125434195291393,0.773809523809524,0.0162099575453493,22.2154069383986,260
+"207","{jumbo bag pink polkadot,jumbo bag woodland animals,jumbo shopper vintage red paisley}","{jumbo bag red retrospot}",0.0104689309147047,0.854330708661417,0.0122539560015438,8.46489814968158,217
+"208","{jumbo bag red retrospot,jumbo bag woodland animals,jumbo shopper vintage red paisley}","{jumbo bag pink polkadot}",0.0104689309147047,0.730639730639731,0.0143284446159784,12.4340725260265,217
+"209","{jumbo bag pink polkadot,jumbo bag woodland animals,jumbo storage bag suki}","{jumbo bag red retrospot}",0.0112890775762254,0.841726618705036,0.0134118101119259,8.34001403084034,234
+"210","{jumbo bag red retrospot,jumbo bag woodland animals,jumbo storage bag suki}","{jumbo bag pink polkadot}",0.0112890775762254,0.715596330275229,0.015775762253956,12.1780629999548,234
+"211","{jumbo bag pink polkadot,jumbo shopper vintage red paisley,jumbo storage bag suki}","{jumbo bag red retrospot}",0.0129293708992667,0.867313915857605,0.0149073716711694,8.59353864622201,268
+"212","{jumbo bag pink polkadot,jumbo bag red retrospot,jumbo shopper vintage red paisley}","{jumbo storage bag suki}",0.0129293708992667,0.708994708994709,0.0182362022385179,12.4121979121979,268
+"213","{jumbo bag woodland animals,jumbo shopper vintage red paisley,jumbo storage bag suki}","{jumbo bag red retrospot}",0.0107101505210343,0.807272727272727,0.0132670783481281,7.99863723274813,222
+"214","{jumbo bag red retrospot,jumbo bag woodland animals,jumbo shopper vintage red paisley}","{jumbo storage bag suki}",0.0107101505210343,0.747474747474748,0.0143284446159784,13.0858585858586,222
+"215","{charlotte bag pink polkadot,charlotte bag suki design,woodland charlotte bag}","{red retrospot charlotte bag}",0.012109224237746,0.85958904109589,0.0140872250096488,17.2316843750828,251
+"216","{charlotte bag pink polkadot,charlotte bag suki design,red retrospot charlotte bag}","{woodland charlotte bag}",0.012109224237746,0.762917933130699,0.0158722500964878,18.9386382250696,251
+"217","{charlotte bag pink polkadot,red retrospot charlotte bag,woodland charlotte bag}","{charlotte bag suki design}",0.012109224237746,0.772307692307692,0.0156792744114242,18.150106401535,251
+"218","{charlotte bag suki design,red retrospot charlotte bag,woodland charlotte bag}","{charlotte bag pink polkadot}",0.012109224237746,0.74702380952381,0.0162099575453493,20.8402550791514,251
